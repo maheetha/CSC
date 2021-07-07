@@ -20,6 +20,22 @@ INPUT DESCRIPTIONS:
 4. Size of each Bootstrap: the number of random groups in each iteration to develop the percentages
 5. Final output: name of final output
 
+INPUT FORMATTING:
+
+Necessary Columns IDs and Information:
+1. Outcomes : 0 or 1
+2. NY: New York Algorithm's Scores
+3. Colorado: Colorado Algorithm's Scores
+4. SOFA: Raw Sofa Algorithm's Scores
+5. NY_Age: New York with Age as Tie-breaker Algorithm's scores
+6. Colorado_Age: Colorado with Age as Tie-breaker Algorithm's scores
+7. SOFA_Age: SOFA with Age as Tie-breaker Algorithm's scores
+
+Optional Columns:
+1. Race
+2. Ethnicity
+3. Gender
+
 FINAL OUTPUT FORMATTING:
 
 1. Column 1: Type of Algorithm
