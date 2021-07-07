@@ -22,11 +22,11 @@ INPUT DESCRIPTIONS:
 
 FINAL OUTPUT FORMATTING:
 
-Column 1: Type of Algorithm
-Column 2: Mean percentage of decisions made without lottery
-Column 3: 95% CI for percentage of decisions made without lottery
-Column 4: Mean percentage of non-lottery decisions that chose a surviving patient
-Column 5: 95% CI for percentage of non-lottery decisions that chose a surviving patient
-Colunn 6: Mean percentage of all decisions that chose a surviving patient
-Colunn 7: 95% CI  of all decisions that chose a surviving patient
+1. Column 1: Type of Algorithm
+2. Column 2: Mean percentage of decisions made without lottery
+3. Column 3: 95% CI for percentage of decisions made without lottery
+4. Column 4: Mean percentage of non-lottery decisions that chose a surviving patient
+5. Column 5: 95% CI for percentage of non-lottery decisions that chose a surviving patient
+6. Colunn 6: Mean percentage of all decisions that chose a surviving patient
+7. Colunn 7: 95% CI  of all decisions that chose a surviving patient
 
